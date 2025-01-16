@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mei-pan/TensorFlow_Developer_Professional_Specialization/blob/main/TensorFlow%20Logo.jpg" alt="Image description" width='auto', height='3200'>
+  <img src="https://github.com/mei-pan/TensorFlow_Developer_Professional_Specialization/blob/main/TensorFlow%20Logo.jpg" alt="Image description" width='auto', height='200'>
 </p>
 
 
