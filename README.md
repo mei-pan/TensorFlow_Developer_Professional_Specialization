@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/mei-pan/TensorFlow_Developer_Professional_Specialization/blob/main/TensorFlow%20Logo.jpg" alt="Image description" width='auto', height='300'>
+</p>
+
 
 # TensorFlow Developer Professional Specialization
 
