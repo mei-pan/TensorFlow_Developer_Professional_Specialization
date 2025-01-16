@@ -11,7 +11,7 @@
     - Introduce machine learning and deep learning concepts, with a focus on familiarizing with TensorFlow by coding a basic neural network architecture. 
   - #### Assignment:
     - Implement a neural network to tackle the classic housing price prediction problem, using machine learning techniques to predict housing prices based on input features.
-    - [Link] ()
+    - [Link](https://github.com/mei-pan/TensorFlow_Developer_Professional_Specialization/blob/main/TF_C1W1_Housing%20Prices.ipynb)
 - Week 2
  
 - Week 3
